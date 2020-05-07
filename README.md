@@ -1,6 +1,6 @@
-"# update-database" 
+"# java-DatabaseAccessOperations" 
 
 ```
 Linguagem: Java
 Conexão ao BD: JDBC
-Descrição: Utilitário que permite a execução de queries diretamente na base de dados para realização de consultas e, em casos extremos, para insert/update/delete.
+Descrição: Utilitário para realização de operações na base de dados.
